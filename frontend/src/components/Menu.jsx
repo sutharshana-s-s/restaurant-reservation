@@ -6,7 +6,7 @@ const Menu = () => {
       <section className='menu' id='menu'>
         <div className="container">
             <div className="heading_section">
-                <h1 className="heading">POPULAR DISHES</h1>
+                <h1 className="heading">POPULAR INTERNATIONAL DISHES</h1>
                 <p>Savor succulent flavors and decadent desserts 
                   from our popular dishes, crafted to delight your 
                   palate and leave you craving more.</p>
