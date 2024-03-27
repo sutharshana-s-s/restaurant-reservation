@@ -10,7 +10,7 @@ dotenv.config();
 
 app.use(
   cors({
-    origin: [process.env.FRONTEND_URL],
+    origin: "https://rreservation.netlify.app/",
     methods: ["POST"],
     credentials: true,
   })
