@@ -13,13 +13,16 @@ const About = () => {
               <p>The only thing we're serious about is food.</p>
             </div>
             <p className="mid">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Provident possimus optio adipisci dolores impedit illum iusto
-              perferendis, laudantium quod accusamus consequuntur consectetur,
-              tempore nulla error iure reiciendis dolorem assumenda.
-              Necessitatibus fugit asperiores totam rem esse exercitationem
-              iusto ipsum qui dolore ex, accusantium repellat mollitia
-              repellendus.
+            Welcome to SS, where culinary excellence meets warm hospitality! 
+            From our humble beginnings to becoming a beloved fixture in the 
+            community, Zeesh is guided by a commitment to quality, innovation, 
+            and hospitality. Our dedication to sourcing the freshest local 
+            ingredients ensures each dish is a delightful experience. Step 
+            into our inviting and elegant ambiance, where versatile spaces 
+            cater to a variety of occasions. Our attentive staff strives to 
+            exceed expectations, ensuring every visit is exceptional. 
+            Join us for a culinary journey like no other, where every meal is 
+            a masterpiece and every moment is savored with joy. Welcome to SS!
             </p>
             <Link to={"/"}>
               Explore Menu{" "}
